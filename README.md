@@ -15,3 +15,7 @@ Previously need to follow all the tutorials in previous videos
 
 #Order
 Order must be chronological to the section videos
+
+###Copyright 
+
+All rights reserved to rafat rahaman tushar @2019
