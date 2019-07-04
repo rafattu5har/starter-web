@@ -13,9 +13,11 @@ Objevtives are to get a concise knowledge in github commend
 ##Prerequisition
 Previously need to follow all the tutorials in previous videos
 
-#Order
+##Order
 Order must be chronological to the section videos
 
+##How to contribute
+Please fork this repository and then issue pull request for review
 ###Copyright 
 
 All rights reserved to rafat rahaman tushar @2019
